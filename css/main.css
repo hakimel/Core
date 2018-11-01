@@ -72,7 +72,6 @@ canvas {
 
 #message {
 	padding: 150px 300px 0 60px;
-	padding: 10vh 22vw 0 6vw;
 	width: 100%;
 	height: 100%;
 	box-sizing: border-box;
@@ -156,7 +155,7 @@ canvas {
 }
 
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 600px) {
 	#message {
 		padding: 60px 40px;
 	}
